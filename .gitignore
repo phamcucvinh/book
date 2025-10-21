@@ -1,0 +1,23 @@
+# 임시 파일
+*.tmp
+*_temp.docx
+~$*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 기타
+.vscode/
+.idea/
